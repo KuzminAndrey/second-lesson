@@ -19,23 +19,3 @@ loop do
   puts "Хэш с товарами #{cart}"
   puts "Сумма за весь товар #{total_sum}"
 end
-
-
-
-
-=begin
-def show_all_list
-end
-
-def summary
-end
-
-while true
-  puts "Добро пожаловать в магазин, введите каманду для управления корзиной"
-  input = gets.chomp
-    if input == "стоп"
-      break
-
-    end
-end
-=end
